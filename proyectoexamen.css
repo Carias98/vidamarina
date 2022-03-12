@@ -1,0 +1,19 @@
+body {
+				border:10px;
+				margin-top:16px;
+				margin-left:16px;
+				margin-right:16px;
+				border-color:#0081ff;
+				background: #60a955;
+				border:dotted;
+      
+}
+
+img {
+       border: double;
+       border-color:#15FF8C #1e90FF #FF00FF;
+       border-radius:40px;
+       }
+       
+     
+
